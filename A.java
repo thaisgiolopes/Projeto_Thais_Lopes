@@ -29,6 +29,10 @@ public class A {
     public void MA2() {
         System.out.println("Executando MA2");
     }
+
+    public int getSoma(int a, int b){
+        return a+b;
+    }
     
     // Novo método
     public void MA3() { 
